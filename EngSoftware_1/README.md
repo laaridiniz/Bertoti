@@ -85,7 +85,7 @@
 
 <div align="center">
   
-  <img src="" alt="diagrama da classe Pessoa">
+  <img src="Classe-Pessoa.png" alt="diagrama da classe Pessoa">
 </div>
 <br>
 
@@ -129,7 +129,7 @@
 <br>
 <div align="center">
   
-  <img src="" alt="diagrama da classe Disciplina">
+  <img src="Classe-Disciplina.png" alt="diagrama da classe Disciplina">
 </div>
 <br>
 
@@ -172,7 +172,7 @@
 <br>
 <div align="center">
   
-  <img src="" alt="diagrama da classe Plataforma de Ensino">
+  <img src="Classe-Plataforma.png" alt="diagrama da classe Plataforma de Ensino">
 </div>
 <br>
 
