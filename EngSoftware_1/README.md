@@ -41,7 +41,7 @@
   <br>
   <b> B) Requisitos não funcionais: </b>
     <br>
-  <br> Como os <b>requisitos funcionais</b> definem tudo <b>o que</b> o sistema fará, cabem aos <b>requisitos não funcionais</b> estabelecer <b>como</b> o sistema fará, ou seja, não têm relação direta com as funções do sistema, mas as qualificam, as restringem e até mesmo as padronizam, podendo ainda exigir soluções bem específicas, daí a transversalidade desses requisitos, que muitas vezes precisam ser resolvidos no âmbito da arquitetura do software e não da programação.<br>
+  <br> <p align="justify">Como os <b>requisitos funcionais</b> definem tudo <b>o que</b> o sistema fará, cabem aos <b>requisitos não funcionais</b> estabelecer <b>como</b> o sistema fará, ou seja, não têm relação direta com as funções do sistema, mas as qualificam, as restringem e até mesmo as padronizam, podendo ainda exigir soluções bem específicas, daí a transversalidade desses requisitos, que muitas vezes precisam ser resolvidos no âmbito da arquitetura do software e não da programação.<br>
 <br>Por esse motivo também são chamados de atributos de qualidade, já que abordam aspectos de qualidade importantes em sistemas de software. Portanto, a não observância dos requisitos não funcionais pode levar à inconsistência e baixa qualidade do software.<br>
 <br>Os requisitos não funcionais da plataforma de ensino fictícia foram baseados nas 10 heurísticas de Nielsen, que são regras gerais de usabilidade com foco na fluidez e intuitividade.<br>
     <br>
