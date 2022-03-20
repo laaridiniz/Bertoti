@@ -70,8 +70,9 @@
   <div align="center">
   <img src="diagrama de classes.drawio.png" alt="desenho do diagrama de classes" align="center">
   <br>
+  <br>
 </div>
-<br>
+
 → [Voltar ao topo](#topo)
 
 <div id="#desenvolvimento">
