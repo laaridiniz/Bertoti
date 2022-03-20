@@ -34,9 +34,11 @@
 <br>Repare que todos os requisitos funcionais se resumem a um verbo, a uma ação a ser executada dentro do software.<br>
     <br>
  </p>
- 
+ </div>
+ <div align="center">
   <img src="Requisitos-Funcionais.drawio.png" alt="esquematização dos requisitos funcionais" width="600" height="500">
   <br>
+  </div>
   
   <br>
   <b> B) Requisitos não funcionais: </b>
@@ -46,12 +48,15 @@
 <br>Os requisitos não funcionais da plataforma de ensino fictícia foram baseados nas 10 heurísticas de Nielsen, que são regras gerais de usabilidade com foco na fluidez e intuitividade.<br>
     <br>
  </p>
+ </div>
  
+ <div align="center">
   <img src="Requisitos-Não funcionais.drawio.png" alt="esquematização dos requisitos não funcionais" width="900" height="600">
-  
  <br>
 
 </div>
+
+→ [Voltar ao topo](#topo)
 
 <div id="#projeto">
   
@@ -60,10 +65,14 @@
 <p align="justify">Na hora de planejar e elaborar um software o ideal é criar um diagrama de classes, pois é essa ferramenta que traz a representação da estrutura e das relações das classes que servem de modelo para os objetos.<br>
 <br>Identificando os objetos e encontrando suas respectivas classes, automaticamente é possível obter a tabela do banco de dados, daí a importância do diagrama de classes nesse momento. Esse processo é tecnicamente definido como abstração dentro da programação orientada a objetos (POO).<br>
   <br>
-  <img src="">
-</p>
-  
+  </p>
+  </div>
+  <div align="center">
+  <img src="diagrama de classes.drawio.png" alt="desenho do diagrama de classes" align="center">
+  <br>
 </div>
+<br>
+→ [Voltar ao topo](#topo)
 
 <div id="#desenvolvimento">
   
