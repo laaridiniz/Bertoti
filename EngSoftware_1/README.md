@@ -68,7 +68,7 @@
   </p>
   </div>
   <div align="center">
-  <img src="diagrama de classes.drawio.png" alt="desenho do diagrama de classes" align="center">
+  <img src="diagrama_revisado.drawio.png" alt="desenho do diagrama de classes" align="center">
   <br>
   <br>
 </div>
