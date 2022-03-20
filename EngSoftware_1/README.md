@@ -87,7 +87,7 @@
   
 > Larissa Diniz, 2022 :star2: <br>
 > ❤️ [Github](https://github.com/laaridiniz)<br>
-> 💙 [Linkedin](https://www.linkedin.com/in/larissa-diniz-dev/)<br>
+> 💙 [LinkedIn](https://www.linkedin.com/in/larissa-diniz-dev/)<br>
 
 </div>
 
