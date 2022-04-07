@@ -89,6 +89,7 @@
 </div>
 <br>
 
+```Java
     public class Pessoa {
 
         private String nome;
@@ -125,6 +126,7 @@
             this.tipo = novoTipo;
         }
     }
+```
 
 <br>
 <div align="center">
@@ -132,6 +134,8 @@
   <img src="Classe-Disciplina.png" alt="diagrama da classe Disciplina">
 </div>
 <br>
+
+```Java
 
      public class Disciplina {
         private String nomeDisciplina;
@@ -169,12 +173,16 @@
         }
     }
 
+```
+
 <br>
 <div align="center">
   
   <img src="Classe-Plataforma.png" alt="diagrama da classe Plataforma de Ensino">
 </div>
 <br>
+
+```Java
 
 
     import java.util.LinkedList;
@@ -247,6 +255,9 @@
         }
     
     }
+
+```
+   
 <br>
 
 <div id="#dev">
