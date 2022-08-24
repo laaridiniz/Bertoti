@@ -34,7 +34,7 @@
  </p>
  </div>
  <div align="center">
-  <img src="" alt="esquematização dos requisitos funcionais" width="600" height="500">
+  <img src="images/imagem_notebooks.jpg" alt="página web exibindo imagens" width="100%" height="100%">
   <br>
   </div>
   
@@ -47,9 +47,10 @@
  </div>
  
  <div align="center">
-  <img src="Requisitos-Não funcionais.drawio.png" alt="esquematização dos requisitos não funcionais" width="900" height="600">
+  <img src="images/imagem_src.jpg" alt="página web exibindo texto alternativo para as imagens" width="100%" height="100%">
  <br>
  </div>
+ <br>
  
  <b> C) Adaptável: </b>
     <br>
