@@ -8,27 +8,28 @@
 
 <p align="center">
   <a href="#ap">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#principio1">Principle 1 - Perceivable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#principio2">Principle 2 - Operable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#principio3">Principle 3 - Understandable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#principio4">Principle 4 - Robust</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#p1">Principle 1 - Perceivable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#p2">Principle 2 - Operable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#p3">Principle 3 - Understandable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#p4">Principle 4 - Robust</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dev">Dev</a>
 </p>
 
-<div id="#ap">
 
 ## ✨Introduction
+
+<div id="#ap">
 
 <p align="justify">Atividade proposta na aula de 24/08/2022, como requisito de avaliação da disciplina Interação Humano-Computador, que compõe a grade curricular do curso de Análise e Desenvolvimento de Sistemas da FATEC-SJC.</p>
 
 </div>
 
-
-<div id="#principio1">
   
   ## 🖥 Principle 1 - Perceivable
+  
+<div id="#p1">
 
-  <p align="justify">A partir deste princípio, as informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber. Esse princípio é dividido em quatro subprincípios: alternativas de texto, mídia baseada em tempo, adaptável e distinguível. <br><br>
+<p align="justify">A partir deste princípio, as informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber. Esse princípio é dividido em quatro subprincípios: alternativas de texto, mídia baseada em tempo, adaptável e distinguível. <br><br>
 <b> A) Alternativas de texto: </b>
 <br></p>
 <p>Forneça alternativas de texto para qualquer conteúdo que não seja de texto para que possa ser alterado para outras formas que as pessoas precisem, como letras grandes, braille, fala, símbolos ou linguagem mais simples.<br>
@@ -132,15 +133,88 @@
 
 → [Voltar ao topo](#topo)
 
-<div id="#principio2">
 
- ## 💻 Principle 2 - Operable
-  
-<p align="justify">De acordo com esse princípio, os componentes da interface do usuário e a navegação devem ser operáveis. Para isso, é necessário se atentar a cinco elementos fundamentais que são divididos nos seguintes tópicos: teclado acessível, tempo suficiente, reações físicas, navegabilidade e modalidades de entrada.<br>
+ ## 🕹️ Principle 2 - Operable
+
+<div id="#p2">
+
+<p align="justify">Por força deste princípio, os componentes da interface do usuário e a navegação devem ser operáveis, de acordo com os itens abaixo:<br>
+<br>
+<b> A) Teclado acessível: </b>
+<br>
+<p align="justify">Sempre que possível, disponibilize a opção de operar por meio de um teclado.
+ <br></p>
+ </div>
+
+<div align="center">
+  <img src="..." alt="pagina das lojas americanas sendo operada por teclado" width="450" height="900">
+ </div>
+ 
+<p align="center"> ✅ Usando apenas algumas teclas, é possível pesquisar produtos e navegar pelas páginas do site (Americanas).</p>
   <br>
-  </p>
+ 
+<b> B) Tempo suficiente: </b>
+<br>
+<p align="justify">O ideal é que se forneça aos usuários tempo suficiente para ler e usar conteúdo. Então, informações móveis que começam automaticamente devem contar com um mecanismo para que o usuário possa pausar, parar ou escondê-lo. Exemplo desse caso são os termos de privacidade dos sites que, após a entrada em vigor da LGPD, passaram a obrigar a transparência dos sites em relação ao tratamento dos dados do usuário. O ideal é que esses avisos não atrapalhem a navegação do usuário, porém, ainda há algumas páginas que renderizam esse tipo de informação de uma maneira que obriga o usuário a tomar algum tipo de ação para só então poder navegar naquele site.
+ <br></p>
+ </div>
+
+<div align="center">
+  <img src="..." alt="página do buscador Google" width="450" height="900">
+ </div>
+ 
+<p align="center"> ✅ Em determinados buscadores online, o usuário não fica impedido de usar alguma funcionalidade e ainda tem uma opção específica disponível para acessar a política de privacidade e outras informações relevantes (Google).</p>
+  <br>
+  
+<div align="center">
+  <img src="..." alt="página inicial do buscador Bing impede que o usuário navegue antes de configurar o uso dos seus dados" width="100%" height="100%">
+ </div>
+ <p align="center"> ❌ Algumas páginas ainda exibem avisos de uso de dados do usuário que o impedem de navegar no site sem antes configurar as permissões desejadas (Bing).</p>
+  <br>
+
+<b> C) Reações físicas: </b>
+<br>
+<b> D) Navegável: </b>
+<br>
+<b> E) Modalidades de input: </b>
+
+</p>
+
 </div>
  
+
+→ [Voltar ao topo](#topo)
+
+ ## 🧠 Principle 3 - Undestandable
+
+<div id="#p3">
+
+<p align="justify">Tendo em vista esse princípio, as informações e o funcionamento da interface do usuário devem ser compreensíveis, ou seja, deve ser legível, previsível e navegável, conforme mostrado a seguir:<br>
+<br>
+<b> A) Legível: </b>
+<br>
+<b> B) Previsível: </b>
+<br>
+<b> C) Assistência de entrada: </b>
+<br>
+
+</p>
+
+</div>
+
+→ [Voltar ao topo](#topo)
+
+## 🧩 Principle 4 - Robust
+
+<div id="#p4">
+
+<p align="justify">A partir desse princípio, o conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma grande variedade de agentes do usuário, incluindo tecnologias assistivas.<br>
+<br>
+<b> A) Compatível: </b>
+<br>
+</p>
+
+</div>
 
 → [Voltar ao topo](#topo)
 
