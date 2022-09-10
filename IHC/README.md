@@ -147,7 +147,7 @@
  </div>
 
 <div align="center">
-  <img src="..." alt="pagina das lojas americanas sendo operada por teclado" width="450" height="900">
+  <img src="images/americanas_teclado.jpg" alt="pagina das lojas americanas sendo operada por teclado" width="100%" height="100%">
  </div>
  
 <p align="center"> ✅ Usando apenas algumas teclas, é possível pesquisar produtos e navegar pelas páginas do site (Americanas).</p>
@@ -160,14 +160,14 @@
  </div>
 
 <div align="center">
-  <img src="..." alt="página do buscador Google" width="450" height="900">
+  <img src="images/google_privacidade.jpg" alt="página do buscador Google" width="100%" height="100%">
  </div>
  
 <p align="center"> ✅ Em determinados buscadores online, o usuário não fica impedido de usar alguma funcionalidade e ainda tem uma opção específica disponível para acessar a política de privacidade e outras informações relevantes (Google).</p>
   <br>
   
 <div align="center">
-  <img src="..." alt="página inicial do buscador Bing impede que o usuário navegue antes de configurar o uso dos seus dados" width="100%" height="100%">
+  <img src="images/bing_privacidade.jpg" alt="página inicial do buscador Bing impede que o usuário navegue antes de configurar o uso dos seus dados" width="100%" height="100%">
  </div>
  <p align="center"> ❌ Algumas páginas ainda exibem avisos de uso de dados do usuário que o impedem de navegar no site sem antes configurar as permissões desejadas (Bing).</p>
   <br>
