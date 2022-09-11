@@ -7,15 +7,15 @@
 <br id="topo">
 
 <p align="center">
-  <a href="#ap">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#p1">Principle 1 - Perceivable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#p2">Principle 2 - Operable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#p3">Principle 3 - Understandable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#p4">Principle 4 - Robust</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#intro">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#principioum">Principle 1 - Perceivable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#principiodois">Principle 2 - Operable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#principiotres">Principle 3 - Understandable</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#principioquatro">Principle 4 - Robust</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dev">Dev</a>
 </p>
 
-<div id="#ap">
+<div id="#intro">
 
 ## ✨Introduction
 
@@ -23,7 +23,7 @@
 
 </div>
 
-<div id="#p1">
+<div id="#principioum">
   
 ## 🖥 Principle 1 - Perceivable
   
@@ -131,7 +131,7 @@
 
 → [Voltar ao topo](#topo)
 
-<div id="#p2">
+<div id="#principiodois">
 
 ## 🕹️ Principle 2 - Operable
 
@@ -181,7 +181,7 @@
 
 → [Voltar ao topo](#topo)
 
-<div id="#p3">
+<div id="#principiotres">
 
 ## 🧠 Principle 3 - Undestandable
 
@@ -200,7 +200,7 @@
 
 → [Voltar ao topo](#topo)
 
-<div id="#p4">
+<div id="#principioquatro">
 
 ## 🧩 Principle 4 - Robust
 
