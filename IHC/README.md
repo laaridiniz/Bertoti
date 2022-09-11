@@ -15,20 +15,18 @@
   <a href="#dev">Dev</a>
 </p>
 
+<div id="#ap">
 
 ## ✨Introduction
-
-<div id="#ap">
 
 <p align="justify">Atividade proposta na aula de 24/08/2022, como requisito de avaliação da disciplina Interação Humano-Computador, que compõe a grade curricular do curso de Análise e Desenvolvimento de Sistemas da FATEC-SJC.</p>
 
 </div>
 
-  
-  ## 🖥 Principle 1 - Perceivable
-  
 <div id="#p1">
-
+  
+## 🖥 Principle 1 - Perceivable
+  
 <p align="justify">A partir deste princípio, as informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneira que eles possam perceber. Esse princípio é dividido em quatro subprincípios: alternativas de texto, mídia baseada em tempo, adaptável e distinguível. <br><br>
 <b> A) Alternativas de texto: </b>
 <br></p>
@@ -133,10 +131,9 @@
 
 → [Voltar ao topo](#topo)
 
-
- ## 🕹️ Principle 2 - Operable
-
 <div id="#p2">
+
+## 🕹️ Principle 2 - Operable
 
 <p align="justify">Por força deste princípio, os componentes da interface do usuário e a navegação devem ser operáveis, de acordo com os itens abaixo:<br>
 <br>
@@ -181,13 +178,12 @@
 </p>
 
 </div>
- 
 
 → [Voltar ao topo](#topo)
 
- ## 🧠 Principle 3 - Undestandable
-
 <div id="#p3">
+
+## 🧠 Principle 3 - Undestandable
 
 <p align="justify">Tendo em vista esse princípio, as informações e o funcionamento da interface do usuário devem ser compreensíveis, ou seja, deve ser legível, previsível e navegável, conforme mostrado a seguir:<br>
 <br>
@@ -204,9 +200,9 @@
 
 → [Voltar ao topo](#topo)
 
-## 🧩 Principle 4 - Robust
-
 <div id="#p4">
+
+## 🧩 Principle 4 - Robust
 
 <p align="justify">A partir desse princípio, o conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma grande variedade de agentes do usuário, incluindo tecnologias assistivas.<br>
 <br>
@@ -216,9 +212,6 @@
 
 </div>
 
-→ [Voltar ao topo](#topo)
-
-<br>
 <div id="#dev">
   
 > Larissa Diniz, 2022 :star2: <br>
