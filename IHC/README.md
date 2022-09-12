@@ -15,7 +15,7 @@
   <a href="#dev">Dev</a>
 </p>
 
-<div id="#intro">
+<div id="intro">
 
 ## ✨Introduction
 
@@ -23,7 +23,7 @@
 
 </div>
 
-<div id="#principioum">
+<div id="principioum">
   
 ## 🖥 Principle 1 - Perceivable
   
@@ -127,7 +127,7 @@
 
 → [Voltar ao topo](#topo)
 
-<div id="#principiodois">
+<div id="principiodois">
 
 ## 🕹️ Principle 2 - Operable
 
@@ -172,7 +172,7 @@
 
 → [Voltar ao topo](#topo)
 
-<div id="#principiotres">
+<div id="principiotres">
 
 ## 🧠 Principle 3 - Undestandable
 
@@ -189,7 +189,7 @@
 
 → [Voltar ao topo](#topo)
 
-<div id="#principioquatro">
+<div id="principioquatro">
 
 ## 🧩 Principle 4 - Robust
 
@@ -201,7 +201,7 @@
 
 </div>
 
-<div id="#dev">
+<div id="dev">
   
 > Larissa Diniz, 2022 :star2: <br>
 > ❤️ [Github](https://github.com/laaridiniz)<br>
