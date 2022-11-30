@@ -163,12 +163,7 @@
 </div>
 <p align="center"> ❌ Algumas páginas ainda exibem avisos de uso de dados do usuário que o impedem de navegar no site sem antes configurar as permissões desejadas (Bing).</p>
 <br>
-
-<b> C) Reações físicas: </b>
-<br>
-<b> D) Navegável: </b>
-<br>
-<b> E) Modalidades de input: </b></p>
+</p>
 
 → [Voltar ao topo](#topo)
 
@@ -176,16 +171,22 @@
 
 ## 🧠 Principle 3 - Undestandable
 
-<p align="justify">Tendo em vista esse princípio, as informações e o funcionamento da interface do usuário devem ser compreensíveis, ou seja, deve ser legível, previsível e navegável, conforme mostrado a seguir:<br>
-<br>
-<b> A) Legível: </b>
-<br>
-<b> B) Previsível: </b>
-<br>
-<b> C) Assistência de entrada: </b>
-<br></p>
+<p align="justify">Tendo em vista esse princípio, as informações e o funcionamento da interface do usuário devem ser compreensíveis, ou seja, deve ser legível, previsível e navegável. Ou seja, as páginas da Web precisam aparecer e operar de maneira previsível, contando com textos legíveis e compreensíveis, além de recursos que ajudem os usuários a evitar e corrigir erros, conforme mostrado a seguir:<br>
+</p>
 
+<div align="center">
+  <img src="images/linkedin.jpg" alt="aviso do linkedin quando o usuário insere informação diferente da esperada em determinado campo" width="60%" height="60%">
+ </div>
+ 
+<p align="center"> ✅ Alguns campos de input contam com validações que auxiliam o usuário a identificar que tipo de informação deve ser fornecida. (LinkedIn).</p>
+  <br>
+
+
+<div align="center">
+  <img src="images/cefet-mg.jpg" alt="página inicial do buscador Bing impede que o usuário navegue antes de configurar o uso dos seus dados" width="100%" height="100%">
 </div>
+<p align="center"> ❌ Alguns sistemas ainda não contam com máscaras em determinados campos de formulários. No formulário acima, vemos que o campo CPF contém uma limitação e uma configuração para os inputs do usuário, enquanto que no campo IDENTIDADE isso não ocorre, então, o usuário pode acidentalmente registrar informações equivocadas (Cefet-MG).</p>
+
 
 → [Voltar ao topo](#topo)
 
@@ -193,11 +194,25 @@
 
 ## 🧩 Principle 4 - Robust
 
-<p align="justify">A partir desse princípio, o conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma grande variedade de agentes do usuário, incluindo tecnologias assistivas.<br>
-<br>
-<b> A) Compatível: </b>
+<p align="justify">A partir desse princípio, o conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma grande variedade de agentes do usuário, incluindo tecnologias assistivas. Essa heurística está ligada à maximização da compatibilidade com agentes de usuário atuais e futuros, incluindo tecnologias assistivas, como ocorre, por exemplo, com as mensagens de status do sistema, que atualizam o usuário do que está sendo feito no sistema:<br>
 <br>
 </p>
+
+<div align="center">
+  <img src="images/rascunho-gmail.jpg" alt="status de salvamento automático de e-mails no Gmail" width="60%" height="60%">
+ </div>
+ 
+<p align="center"> ✅ Enquanto o usuário redige um e-mail, a plataforma notifica o usuário do status do rascunho. (Gmail).</p>
+  <br>
+
+</div>
+
+<div align="center">
+  <img src="images/envio-gmail.png" alt="status de envio de e-mails no Gmail" width="60%" height="60%">
+ </div>
+ 
+<p align="center"> ✅ Assim que o usuário envia um e-mail, a plataforma notifica o usuário. (Gmail).</p>
+  <br>
 
 </div>
 
