@@ -1,6 +1,4 @@
-<p align="center">Larissa Aparecida Diniz Silva - RA: 1460482121029
-<br>
-[Em construção]</p>
+<p align="center">Larissa Aparecida Diniz Silva - RA: 1460482121029</p>
 
 <h1 align="center">Análise das Diretrizes de Acessibilidade de Conteúdo da Web (WCAG)</h1>
 
