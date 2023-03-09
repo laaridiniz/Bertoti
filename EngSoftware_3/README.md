@@ -6,8 +6,14 @@
 <br>
 Sendo assim, sua aplicação independe da linguagem de programação utilizada, considerando que sua função é resolver da melhor forma um problema recorrente. Ao contrário das funções e bibliotecas, os padrões de projeto não podem ser copiados direto para um programa, por não serem compostos por um trecho de código. Eles são na verdade conceitos que são utilizados como solução e, para serem implementados, o programador precisa seguir o conceito do padrão escolhido, ajustando-o ao problema que precisa ser resolvido.<br>
 <br>
-De acordo com o livro “Design Patterns: Elements of Reusable Object-Oriented Software”, lançado em 1994 e escrito por Rich Gamma, Richard Helm, Ralph Johnson e John Vlissides (conhecidos como GOF ou Gang of Four), existem três principais padrões de projeto: os criacionais, os estruturais e os comportamentais. Essa divisão foi feita a partir da natureza do problema que esses padrões solucionam.<br>
+De acordo com o livro “Design Patterns: Elements of Reusable Object-Oriented Software”, lançado em 1994 e escrito por Rich Gamma, Richard Helm, Ralph Johnson e John Vlissides (conhecidos como GOF ou Gang of Four), existem três principais padrões de projeto: os criacionais, os estruturais e os comportamentais. Essa divisão foi feita a partir da natureza do problema que esses padrões solucionam.<br></p>
 <br>
+<div align="center">
+<img src="Imagens/Design-patterns.jpg" alt="Esquema visual com os tipos de padrões de projetos" width="60%" height="60%"><br>
+<p align="center">Fonte: Pauls Dev Blog, 2022.</p>
+</div>
+<br>
+<p align="justify">
 1) Padrões criacionais: sua função é oferecer alternativas de criação de objetos, melhorando a flexibilidade e a reutilização de código. São citados como principais padrões criacionais o Factory Method, o Abstract Factory e o Builder;<br>
 <br>
 2) Padrões estruturais: como o próprio nome sugere, são voltados à montagem de objetos e classes em estruturas maiores, sem que se comprometa a eficiência e a flexibilidade do código. Os principais padrões estruturais são Adapter, Bridge e Composite;<br>
@@ -28,3 +34,5 @@ No entanto, aqui será abordado especialmente o Strategy e o Observer, que são 
 ## Referências
 
 CHAGAS, Igor. Design patterns: Breve introdução aos padrões de projeto. Alura. Disponível em: <https://www.alura.com.br/artigos/design-patterns-introducao-padroes-projeto>. Acesso em: 09/03/2023.
+
+KNULST, Paul. An Introduction To Software Design Patterns. Pauls Dev Blog. Disponível em: <https://www.paulsblog.dev/an-introduction-to-software-design-patterns/>. Acesso em: 09/03/2023.
