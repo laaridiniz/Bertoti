@@ -1,6 +1,6 @@
 <p align="center">Larissa Aparecida Diniz Silva - RA: 1460482121029</p>
 
-<h2 align="center">Uso de Design Patterns na construção dos algoritmos</h2>
+<h2 align="center">🖱️Uso de Design Patterns na construção dos algoritmos</h2>
 
 <p align="justify">Assim como outras áreas das ciências exatas têm diversas teorias aplicadas a problemas típicos, como a relação entre Galileu e a queda livre ou entre Pitágoras e as medidas dos catetos e da hipotenusa, na área da computação também foram desenvolvidas algumas teorias que apresentam uma solução para determinado tipo de problema. Essas fórmulas são os chamados Design Patterns ou Padrões de Projeto, responsáveis por criar soluções para problemas comuns em projetos de software.<br>
 <br>
@@ -17,9 +17,9 @@ De acordo com o livro “Design Patterns: Elements of Reusable Object-Oriented S
 No entanto, aqui será abordado especialmente o Strategy e o Observer, que são padrões comportamentais.<br>
 </p>
 
-## Primeiro Exemplo (Strategy) 
+## ♟️Strategy 
 
-<p align="justify">Divisão de esportes de acordo com a quantidade de pessoas na equipe e com o tamanho da bola usada.</p>
+<p align="justify">Exemplo: Divisão de esportes de acordo com a quantidade de pessoas na equipe e com o tamanho da bola usada.</p>
 <div align="center">
 <img src="Imagens/Diagrama.png" alt="Diagrama de classes ilustrando as relações entre as classes e as interfaces a partir do método Strategy, espécie de Design Pattern Behavioral.">
 </div>
