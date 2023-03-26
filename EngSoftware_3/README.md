@@ -38,6 +38,7 @@ Segue o diagrama de classes que ilustra a estrutura do algoritmo:<br>
 </div>
 <br>
 
+Para acessar o código em Java, clique [aqui](https://github.com/laaridiniz/Bertoti/tree/main/EngSoftware_3/Strategy).
 
 ## Observer
 
