@@ -9,7 +9,7 @@ Usei esses 3 tipos de funções para exemplificar um desconto de 9% (para aquele
 Segue o diagrama de classes que ilustra a estrutura do algoritmo:<br>
 </p>
 <div align="center">
-<img src="Imagens/desconto-INSS.png" alt="Diagrama de classes ilustrando as relações entre as classes e as interfaces a partir do método Strategy, espécie de Design Pattern Behavioral.">
+<img src="../Imagens/desconto-INSS.png" alt="Diagrama de classes ilustrando as relações entre as classes e as interfaces a partir do método Strategy, espécie de Design Pattern Behavioral.">
 </div>
 <br>
 
