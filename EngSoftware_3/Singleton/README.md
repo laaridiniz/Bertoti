@@ -15,6 +15,16 @@ Desvantagens:
 - O código que era para se comportar como um padrão Singleton pode acabar sendo usado como variável global (chamada em vários comandos diferentes do mesmo código);
 - Dependendo da maneira como é aplicado, o Singleton pode ser difícil de testar a classe que está chamando esse Singleton, já que não é necessário que se passe algum argumento.
 
+<p align="justify">
+A exemplo a aplicabilidade desse padrão, foi construída uma classe genérica responsável por fazer a conexão da aplicação com o banco de dados. Segue o diagrama de classes que ilustra a estrutura do algoritmo:
+<br>
+</p>
+
+<div align="center">
+  <img src="Images/Diagrama-Singleton.png" alt="Diagrama de classes no padrão Singleton"/>
+</div>
+
+
 ## Referências
 
 JÚNIOR, Rinaldo Pitzer. Aprenda PRA VALER o padrão SINGLETON e suas DESVANTAGENS! Youtube, 6 de mai. de 2021. Disponível em: <https://www.youtube.com/watch?v=jInj68kINGE>. Acesso em: 14 mai. 2023.
