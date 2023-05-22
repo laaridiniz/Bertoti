@@ -17,6 +17,20 @@ Vantagens:
 - Centralizar implementações diferentes em uma mesma interface;
 - Possibilidade de testar cada passo individualmente e ainda testar o processo como um todo.
 
+
+Segue o diagrama de classes de um exemplo de implementação desse padrão:
+
+
+<div align="center">
+  <br>
+<img src="Images/Diagrama-Facade.png" alt="Diagrama de classes projeto Facade"/>
+  <br>
+  <br>
+</div>
+
+
+Para acessar o código em Java, clique [aqui](https://github.com/laaridiniz/Bertoti/tree/main/EngSoftware_3/Facade/Facade).
+
 ## Referências
 
 DEVMEDIA. Padrão de Projeto Facade em Java. DevMedia, 2012. Disponível em: <https://www.devmedia.com.br/padrao-de-projeto-facade-em-java/26476>. 
