@@ -1,4 +1,4 @@
-<h2 align="center">Singleton</h2>
+<h2 align="center">📂 Singleton</h2>
 
 <p align="justify">Em linhas gerais, o Singleton é um padrão utilizado nos casos em que é necessário uma única instância de determinada classe.<br>
 <br>
