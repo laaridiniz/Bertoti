@@ -1,4 +1,4 @@
-<h2 align="center">Composite</h2>
+<h2 align="center">🗃 Composite</h2>
 
 <p align="justify">
 Adentrando nos padrões estruturais, encontramos o Composite, definido como aquele padrão voltado à forma como os objetos serão compostos para formar estruturas maiores. Por esse motivo, sua função principal é compor objetos em estrutura de árvore para representar hierarquias (partes/todo). O composite permite aos clientes tratarem de maneira uniforme objetos individuais e composições de objetos.<br>
