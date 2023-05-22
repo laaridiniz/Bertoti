@@ -1,4 +1,4 @@
-## ♟️Strategy 
+<h2 align="center">♟️Strategy</h2> 
 
 <p align="justify">Quando o algoritmo precisa resolver uma questão que envolve algumas possibilidades é comum que se use uma estrutura condicional, como if else, para tratar essas possibilidades. No entanto, o uso dessa estrutura pode deixar a classe muito extensa. Para resolver esse problema é que surgiu o padrão Strategy, que visa distribuir essas várias possibilidades em classes diferentes, conferindo maior autonomia entre as classes e maior facilidade de leitura, interpretação e manutenção desse código.<br>
 <br>
