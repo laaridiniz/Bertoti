@@ -22,7 +22,7 @@ A exemplo a aplicabilidade desse padrão, foi construída uma classe genérica r
 </p>
 
 <div align="center">
-  <img src="Images/Diagrama-Singleton.png" alt="Diagrama de classes no padrão Singleton"/>
+  <img src="Images/Diagrama-Singleton2.png" alt="Diagrama de classes no padrão Singleton"/>
   <br>
   <br>
 </div>
