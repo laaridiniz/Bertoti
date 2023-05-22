@@ -18,12 +18,16 @@ Desvantagens:
 <p align="justify">
 A exemplo a aplicabilidade desse padrão, foi construída uma classe genérica responsável por fazer a conexão da aplicação com o banco de dados. Segue o diagrama de classes que ilustra a estrutura do algoritmo:
 <br>
+  <br>
 </p>
 
 <div align="center">
   <img src="Images/Diagrama-Singleton.png" alt="Diagrama de classes no padrão Singleton"/>
+  <br>
+  <br>
 </div>
 
+Para consultar o código em Java, clique [aqui](https://github.com/laaridiniz/Bertoti/tree/main/EngSoftware_3/Singleton/Singleton).
 
 ## Referências
 
