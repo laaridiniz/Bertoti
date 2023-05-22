@@ -8,4 +8,9 @@ Segue o diagrama de classes que ilustra a estrutura do algoritmo:<br>
 
 <div align="center">
   <img src="Images/Diagrama-Strategy-2.png" alt="Diagrama de classes do exercício Strategy 2"/>
+  <br>
+  <br>
 </div>
+
+
+Para consultar o código em Java, clique [aqui](https://github.com/laaridiniz/Bertoti/tree/main/EngSoftware_3/Strategy-2/Strategy20).
